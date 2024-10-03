@@ -1,0 +1,71 @@
+{
+    "arcs": {},
+    "junctions": {},
+    "lines": {},
+    "name": "Fiducial",
+    "polygons": {
+        "016ac1bf-245d-4393-a3ab-483190988f1d": {
+            "layer": 0,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        500000,
+                        0
+                    ],
+                    "type": "arc"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -500000,
+                        0
+                    ],
+                    "type": "arc"
+                }
+            ]
+        },
+        "61b5cf79-512a-4ed3-b95d-1c41798ccec2": {
+            "layer": 10,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        1000000,
+                        0
+                    ],
+                    "type": "arc"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        -1000000,
+                        0
+                    ],
+                    "type": "arc"
+                }
+            ]
+        }
+    },
+    "texts": {},
+    "type": "decal",
+    "uuid": "85907240-3c51-402d-b6d0-68a37e011cfe"
+}

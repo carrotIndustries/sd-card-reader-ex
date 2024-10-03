@@ -1,0 +1,84 @@
+{
+    "MPN": [
+        false,
+        "0472192001"
+    ],
+    "datasheet": [
+        false,
+        "https://www.molex.com/pdm_docs/sd/472192001_sd.pdf"
+    ],
+    "description": [
+        false,
+        "Hinged lid microSD connector"
+    ],
+    "entity": "1cdced4f-25b3-492b-a386-aa0265b01981",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Molex"
+    ],
+    "model": "4904bcb1-ea4c-4625-a121-98d9ff4de85a",
+    "package": "8908a17e-b7ce-4842-bfa3-1fbe7be8e997",
+    "pad_map": {
+        "1830ba64-ea82-427a-aed8-c8bedcf2fd65": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "68ebb9ab-1124-4f88-b1ae-90c5228ef418"
+        },
+        "22956575-a154-4dad-8d2e-52eb2ff5012c": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "84145111-7106-4cf4-a702-c150f23d34a6"
+        },
+        "2c0289f5-83c6-402d-b591-df1c1e03c920": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "ab9e3dd9-56f0-4d32-9c94-200cf2fce86c"
+        },
+        "3904e7dd-eaae-4ffe-be6f-9ba94e660377": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "4dba0843-ae74-4ad2-a047-68ac22400d82"
+        },
+        "45cd5148-6799-4df2-a0f2-63504333465f": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "26177144-5c5a-4760-b4ad-68c75d2b4aba"
+        },
+        "5902b9bb-0b4c-4d8d-8f87-4e2824d470d3": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "ee4b4b1d-623d-492a-a2b3-7bc03beb38c7"
+        },
+        "5a4de24a-892f-4686-be8a-ad5b06d5a5c4": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "eca2bcd1-1179-4545-8a87-93d0494beb78"
+        },
+        "a75566dd-f471-4e02-a1ca-685f773ad022": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "ee4b4b1d-623d-492a-a2b3-7bc03beb38c7"
+        },
+        "af637ca8-e95d-4858-9824-8b983c543dac": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "00f1d524-276f-4375-b41c-9b4d4015fe66"
+        },
+        "bce13361-98de-474c-97a5-7b29a9b52d4f": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "bcddfb1d-27df-4328-a7be-2ef9cb7e9ac9"
+        },
+        "be5fc37c-af98-43c0-96da-624bd30b1721": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "ee4b4b1d-623d-492a-a2b3-7bc03beb38c7"
+        },
+        "e75101ad-2195-41f3-a861-b82085719974": {
+            "gate": "c9aa1bde-4087-4dd8-88e8-072b55f119bb",
+            "pin": "ee4b4b1d-623d-492a-a2b3-7bc03beb38c7"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "micro-sd"
+    ],
+    "type": "part",
+    "uuid": "c4215e20-7a77-4a65-bb28-2754e17876f1",
+    "value": [
+        false,
+        ""
+    ]
+}

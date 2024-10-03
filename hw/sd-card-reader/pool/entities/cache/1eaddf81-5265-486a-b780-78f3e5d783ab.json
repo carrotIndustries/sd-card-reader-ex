@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "e8189c37-2d98-4eac-800c-4964a67658cd": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "3d8d35f6-e61b-44a7-af83-425a26358be7"
+        }
+    },
+    "manufacturer": "Microchip",
+    "name": "USB2244",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "1eaddf81-5265-486a-b780-78f3e5d783ab"
+}

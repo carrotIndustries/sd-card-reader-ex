@@ -1,0 +1,11 @@
+{
+    "blocks": {
+        "db836eb3-3f50-4039-aaee-145e309cf2a7": {
+            "block_filename": "top_block.json",
+            "schematic_filename": "top_schematic.json",
+            "symbol_filename": ""
+        }
+    },
+    "top_block": "db836eb3-3f50-4039-aaee-145e309cf2a7",
+    "type": "blocks"
+}

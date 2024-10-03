@@ -1,0 +1,189 @@
+{
+    "manufacturer": "Microchip",
+    "name": "USB2244",
+    "pins": {
+        "01c5d744-dc1e-4376-bad5-c95304435fcc": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "CRD_PWR",
+            "swap_group": 0
+        },
+        "0f15fd46-7da1-4df1-b2dc-cc2c4c4e607a": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "XTAL2",
+            "swap_group": 0
+        },
+        "11f1d446-daf8-4c2d-b186-b6d3027c379f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD_D1",
+            "swap_group": 0
+        },
+        "136cdced-970a-4b55-8e9c-461c9b8eedce": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD_WP",
+            "swap_group": 0
+        },
+        "2c47920d-c6c5-419d-a690-84379cbf042f": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDDA33",
+            "swap_group": 0
+        },
+        "565617a1-ae68-48e6-8dcd-f20baa1dc80f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD_D7",
+            "swap_group": 0
+        },
+        "584fc8a2-acf8-4f88-9fb2-e8af5591231a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB+",
+            "swap_group": 0
+        },
+        "608cc3c6-076b-4eab-a2a5-bdf687a96d4c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD_D6",
+            "swap_group": 0
+        },
+        "62c70d42-4c9b-45de-ab39-ac3ebdffcc7b": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "67f7f352-99ca-4e15-b7e4-e67b67acd3df": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RBIAS",
+            "swap_group": 0
+        },
+        "81348a5f-37bb-43f3-9b18-259a6efcb5e4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD_D0",
+            "swap_group": 0
+        },
+        "86513654-3c1b-453d-9fee-a90bfc142fdb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "XTAL1",
+            "swap_group": 0
+        },
+        "870ee236-b27b-40d1-b879-089234841e34": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD_CMD",
+            "swap_group": 0
+        },
+        "8963388a-8706-4a10-8994-7bed1b50e48a": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD33",
+            "swap_group": 0
+        },
+        "8b311164-6423-49f3-8068-65e9365dc638": {
+            "alt_names": {
+                "7d428674-2e1c-4542-a57b-f505e7b55fdd": {
+                    "direction": "open_collector",
+                    "name": "SCK"
+                }
+            },
+            "direction": "output",
+            "names": [],
+            "primary_name": "TXD",
+            "swap_group": 0
+        },
+        "99d96869-c354-4cbf-88cd-fe598d0dc8ed": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD18",
+            "swap_group": 0
+        },
+        "a90f9793-a06d-4aa2-94d2-4d6ff15084e4": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "USB-",
+            "swap_group": 0
+        },
+        "aee69aa5-27a8-4f08-affb-1ba23769355d": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD18PLL",
+            "swap_group": 0
+        },
+        "bf10d61e-f743-4073-ad78-996b7d21521f": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "~RESET",
+            "swap_group": 0
+        },
+        "c70713a7-9997-4021-9947-4690efdea2c8": {
+            "alt_names": {
+                "cb7b3686-3271-4851-8096-f5bb188b0b78": {
+                    "direction": "bidirectional",
+                    "name": "SDA"
+                }
+            },
+            "direction": "input",
+            "names": [],
+            "primary_name": "RXD",
+            "swap_group": 0
+        },
+        "c88c79ee-e736-4347-8ffb-215a8323acd3": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "LED",
+            "swap_group": 0
+        },
+        "cd080796-d0ce-4e99-ac2c-9392ef4cf489": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "TEST",
+            "swap_group": 0
+        },
+        "d1262dfc-ebfa-46fb-8ac6-1bacb67c532d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD_nCD",
+            "swap_group": 0
+        },
+        "e1a6ab3a-e344-4e5d-90ba-efa3fe32a892": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD_D3",
+            "swap_group": 0
+        },
+        "ef43fdcb-3874-42db-96e4-2389dfbd98a1": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SD_CLK",
+            "swap_group": 0
+        },
+        "f3bf5c62-ef0a-437f-8d5b-b518c5b72647": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD_D2",
+            "swap_group": 0
+        },
+        "f80205f2-4a6f-4623-b8e6-1f1b514d7b2c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SD_D5",
+            "swap_group": 0
+        },
+        "fe2d95ec-7a50-4b8b-bcf0-9306cbd4a6fd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SD_D4",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "3d8d35f6-e61b-44a7-af83-425a26358be7",
+    "version": 1
+}

@@ -1,0 +1,62 @@
+{
+    "manufacturer": "",
+    "name": "microSD Socket",
+    "pins": {
+        "00f1d524-276f-4375-b41c-9b4d4015fe66": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CLK",
+            "swap_group": 0
+        },
+        "26177144-5c5a-4760-b4ad-68c75d2b4aba": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSS",
+            "swap_group": 0
+        },
+        "4dba0843-ae74-4ad2-a047-68ac22400d82": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DAT2",
+            "swap_group": 0
+        },
+        "68ebb9ab-1124-4f88-b1ae-90c5228ef418": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DAT1",
+            "swap_group": 0
+        },
+        "84145111-7106-4cf4-a702-c150f23d34a6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "ab9e3dd9-56f0-4d32-9c94-200cf2fce86c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DAT0",
+            "swap_group": 0
+        },
+        "bcddfb1d-27df-4328-a7be-2ef9cb7e9ac9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CMD",
+            "swap_group": 0
+        },
+        "eca2bcd1-1179-4545-8a87-93d0494beb78": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DAT3",
+            "swap_group": 0
+        },
+        "ee4b4b1d-623d-492a-a2b3-7bc03beb38c7": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Shield",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "461ce475-71df-4f2a-9174-6771b3ae59d7"
+}

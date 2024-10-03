@@ -1,0 +1,52 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "f1c719da-4ca9-42c7-96d8-c5f35a338068",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "e250b3c0-bc37-447d-b5ab-8efec9e7dcfd": {
+            "arcs": {},
+            "block_symbols": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "frame": "ba34cbaf-e36e-44c3-af16-bab253fc720b",
+            "index": 1,
+            "junctions": {},
+            "lines": {},
+            "name": "First sheet",
+            "net_labels": {},
+            "net_lines": {},
+            "power_symbols": {},
+            "symbols": {},
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "Lukas K.",
+        "date": "2023-04-24",
+        "project_name": "sd-card-reader-panel",
+        "project_title": "sd card reader panel",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "15834e08-c7ed-4f44-b5f1-3f519b064f6e",
+    "version": 8
+}

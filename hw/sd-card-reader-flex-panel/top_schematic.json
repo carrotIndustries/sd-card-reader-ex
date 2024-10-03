@@ -1,0 +1,143 @@
+{
+    "annotation": {
+        "fill_gaps": true,
+        "ignore_unknown": false,
+        "keep": true,
+        "mode": "sheet_100",
+        "order": "right_down"
+    },
+    "block": "caa130ed-399d-4195-a9e9-0a1fbe90f4a7",
+    "group_tag_visible": false,
+    "name": "",
+    "pdf_export_settings": {
+        "min_line_width": 0,
+        "output_filename": ""
+    },
+    "rules": {
+        "connectivity": {
+            "enabled": true,
+            "include_unnamed": true,
+            "order": -1
+        }
+    },
+    "sheets": {
+        "697d5630-c68b-4441-8f18-10e58ba544e2": {
+            "arcs": {},
+            "block_symbols": {},
+            "bus_labels": {},
+            "bus_rippers": {},
+            "frame": "ba34cbaf-e36e-44c3-af16-bab253fc720b",
+            "index": 1,
+            "junctions": {
+                "9ad4c012-0adf-4ff4-8759-43383b0807ea": {
+                    "position": [
+                        110000000,
+                        113750000
+                    ]
+                }
+            },
+            "lines": {},
+            "name": "First sheet",
+            "net_labels": {},
+            "net_lines": {},
+            "power_symbols": {
+                "abc292b6-cdde-464f-9655-addf1b034b36": {
+                    "junction": "9ad4c012-0adf-4ff4-8759-43383b0807ea",
+                    "mirror": false,
+                    "net": "f0b808dd-8348-40d5-b2da-c61a921a2b91",
+                    "orientation": "down"
+                }
+            },
+            "symbols": {
+                "0b421c51-98c0-4c2e-a912-255dc419cf67": {
+                    "component": "e7817d80-e4d0-45f0-9079-a1448fc9003b",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "0de5f349-f360-44ed-8f13-d76a2a712b17",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            102500000,
+                            126250000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "56454ae4-1847-4294-847a-159be05e5c9f",
+                    "texts": []
+                },
+                "6d265487-0d0c-4162-895f-7703133d336c": {
+                    "component": "7c94fb1e-cfa8-430f-b4e3-c102d4895166",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "0de5f349-f360-44ed-8f13-d76a2a712b17",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            102500000,
+                            136250000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "56454ae4-1847-4294-847a-159be05e5c9f",
+                    "texts": []
+                },
+                "91948c87-701b-482c-aaae-cbdc443e8afc": {
+                    "component": "431c0e6f-c896-4d03-9677-bbf943e55f1b",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "0de5f349-f360-44ed-8f13-d76a2a712b17",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            102500000,
+                            131250000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "56454ae4-1847-4294-847a-159be05e5c9f",
+                    "texts": []
+                },
+                "92ba419f-7685-494f-9759-2e4af04f3e29": {
+                    "component": "4b0a5f88-33fa-449a-9dee-50b3bf55c88f",
+                    "display_all_pads": false,
+                    "display_directions": false,
+                    "expand": 0,
+                    "gate": "0de5f349-f360-44ed-8f13-d76a2a712b17",
+                    "pin_display_mode": "selected_only",
+                    "placement": {
+                        "angle": 0,
+                        "mirror": false,
+                        "shift": [
+                            102500000,
+                            121250000
+                        ]
+                    },
+                    "smashed": false,
+                    "symbol": "56454ae4-1847-4294-847a-159be05e5c9f",
+                    "texts": []
+                }
+            },
+            "texts": {},
+            "title_block_values": {}
+        }
+    },
+    "title_block_values": {
+        "author": "Lukas K.",
+        "date": "2024-04-21",
+        "project_name": "sd-card-reader-flex-panel",
+        "project_title": "sd card reader flex panel",
+        "rev": "1"
+    },
+    "type": "schematic_block",
+    "uuid": "e4eafa0d-8ad3-43e6-80b4-57a162c59a54",
+    "version": 8
+}

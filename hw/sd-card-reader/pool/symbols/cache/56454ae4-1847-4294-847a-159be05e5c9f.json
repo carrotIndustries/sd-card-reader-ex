@@ -1,0 +1,243 @@
+{
+    "arcs": {},
+    "can_expand": false,
+    "junctions": {},
+    "lines": {},
+    "name": "Test point (small circle, filled)",
+    "pins": {
+        "2fffaa24-00b6-4f8f-a6c0-f808a499d524": {
+            "decoration": {
+                "clock": false,
+                "dot": false,
+                "driver": "default",
+                "schmitt": false
+            },
+            "length": 1250000,
+            "name_orientation": "in_line",
+            "name_visible": false,
+            "orientation": "down",
+            "pad_visible": false,
+            "position": [
+                0,
+                0
+            ]
+        }
+    },
+    "polygons": {
+        "f658ef95-0b2b-4885-ae77-1f0cfba214e2": {
+            "layer": 0,
+            "parameter_class": "",
+            "vertices": [
+                {
+                    "arc_center": [
+                        0,
+                        0
+                    ],
+                    "arc_reverse": false,
+                    "position": [
+                        500000,
+                        1750000
+                    ],
+                    "type": "line"
+                },
+                {
+                    "arc_center": [
+                        0,
+                        1750000
+                    ],
+                    "arc_reverse": true,
+                    "position": [
+                        500000,
+                        1750000
+                    ],
+                    "type": "arc"
+                }
+            ]
+        }
+    },
+    "text_placements": {
+        "0m": {
+            "6c730662-71c4-43d3-9fd8-ea8b6255476c": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    500000,
+                    3000000
+                ]
+            },
+            "80b78763-0394-4490-8059-1e3983b38f2d": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    500000,
+                    500000
+                ]
+            }
+        },
+        "0n": {
+            "6c730662-71c4-43d3-9fd8-ea8b6255476c": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    500000,
+                    3000000
+                ]
+            },
+            "80b78763-0394-4490-8059-1e3983b38f2d": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    500000,
+                    500000
+                ]
+            }
+        },
+        "180m": {
+            "6c730662-71c4-43d3-9fd8-ea8b6255476c": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    500000,
+                    500000
+                ]
+            },
+            "80b78763-0394-4490-8059-1e3983b38f2d": {
+                "angle": 32768,
+                "mirror": true,
+                "shift": [
+                    500000,
+                    3000000
+                ]
+            }
+        },
+        "180n": {
+            "6c730662-71c4-43d3-9fd8-ea8b6255476c": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    500000,
+                    500000
+                ]
+            },
+            "80b78763-0394-4490-8059-1e3983b38f2d": {
+                "angle": 32768,
+                "mirror": true,
+                "shift": [
+                    500000,
+                    3000000
+                ]
+            }
+        },
+        "270m": {
+            "6c730662-71c4-43d3-9fd8-ea8b6255476c": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    -1250000,
+                    2250000
+                ]
+            },
+            "80b78763-0394-4490-8059-1e3983b38f2d": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    1250000,
+                    2250000
+                ]
+            }
+        },
+        "270n": {
+            "6c730662-71c4-43d3-9fd8-ea8b6255476c": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    -1250000,
+                    2250000
+                ]
+            },
+            "80b78763-0394-4490-8059-1e3983b38f2d": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    1250000,
+                    2250000
+                ]
+            }
+        },
+        "90m": {
+            "6c730662-71c4-43d3-9fd8-ea8b6255476c": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    1250000,
+                    2250000
+                ]
+            },
+            "80b78763-0394-4490-8059-1e3983b38f2d": {
+                "angle": 49152,
+                "mirror": true,
+                "shift": [
+                    -1250000,
+                    2250000
+                ]
+            }
+        },
+        "90n": {
+            "6c730662-71c4-43d3-9fd8-ea8b6255476c": {
+                "angle": 16384,
+                "mirror": false,
+                "shift": [
+                    1250000,
+                    2250000
+                ]
+            },
+            "80b78763-0394-4490-8059-1e3983b38f2d": {
+                "angle": 49152,
+                "mirror": true,
+                "shift": [
+                    -1250000,
+                    2250000
+                ]
+            }
+        }
+    },
+    "texts": {
+        "6c730662-71c4-43d3-9fd8-ea8b6255476c": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    500000,
+                    3000000
+                ]
+            },
+            "size": 1500000,
+            "text": "$REFDES",
+            "width": 0
+        },
+        "80b78763-0394-4490-8059-1e3983b38f2d": {
+            "font": "simplex",
+            "from_smash": false,
+            "layer": 0,
+            "origin": "center",
+            "placement": {
+                "angle": 0,
+                "mirror": false,
+                "shift": [
+                    500000,
+                    500000
+                ]
+            },
+            "size": 1500000,
+            "text": "$VALUE",
+            "width": 0
+        }
+    },
+    "type": "symbol",
+    "unit": "9a801b2f-7ab4-41ce-8fa7-3d475fff6826",
+    "uuid": "56454ae4-1847-4294-847a-159be05e5c9f"
+}

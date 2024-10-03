@@ -1,0 +1,156 @@
+{
+    "MPN": [
+        false,
+        "USB2244-AEZG-06"
+    ],
+    "datasheet": [
+        false,
+        "https://ww1.microchip.com/downloads/aemDocuments/documents/OTH/ProductDocuments/DataSheets/00001979A.pdf"
+    ],
+    "description": [
+        false,
+        "Ultra Fast USB 2.0 SD/MMC Controller"
+    ],
+    "entity": "1eaddf81-5265-486a-b780-78f3e5d783ab",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Microchip"
+    ],
+    "model": "63a66487-7062-4d57-bb1d-c7ae30fdb2ee",
+    "package": "95d4f8c3-c37a-4f8b-b2d2-e5a4b4843294",
+    "pad_map": {
+        "00e5a13c-bd20-4fa4-8a57-be8bc7ebb351": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "ef43fdcb-3874-42db-96e4-2389dfbd98a1"
+        },
+        "1872d011-06dc-49a0-a2d7-11d80d8eb6e5": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "a90f9793-a06d-4aa2-94d2-4d6ff15084e4"
+        },
+        "1e480428-ee24-4882-a3bf-8fbbd81b42aa": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "565617a1-ae68-48e6-8dcd-f20baa1dc80f"
+        },
+        "1fb4fe6d-1fb8-464b-ad5e-0ea0a7ba7c75": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "67f7f352-99ca-4e15-b7e4-e67b67acd3df"
+        },
+        "29911a87-c16a-46ef-97b0-41e3b78754dc": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "2c47920d-c6c5-419d-a690-84379cbf042f"
+        },
+        "2a14af94-7130-4329-8ff5-90ac2eb91dc1": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "0f15fd46-7da1-4df1-b2dc-cc2c4c4e607a"
+        },
+        "2fd49275-6c90-42b9-a3c4-2f542c175794": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "99d96869-c354-4cbf-88cd-fe598d0dc8ed"
+        },
+        "411c2c8a-0eb2-4b01-9a35-6d34b613021e": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "870ee236-b27b-40d1-b879-089234841e34"
+        },
+        "50a1ccae-bfb2-4d24-87ff-d98686d741c6": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "aee69aa5-27a8-4f08-affb-1ba23769355d"
+        },
+        "50d6302d-7e8c-4719-8458-88d4923e454e": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "f3bf5c62-ef0a-437f-8d5b-b518c5b72647"
+        },
+        "5d25f63e-232d-43fd-a269-20a31e8d60f7": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "86513654-3c1b-453d-9fee-a90bfc142fdb"
+        },
+        "663fd305-4b11-4c25-bc64-4437e3a892cb": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "8963388a-8706-4a10-8994-7bed1b50e48a"
+        },
+        "66d70f2e-bc3a-4f4c-a4c4-e954ff6dbb98": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "584fc8a2-acf8-4f88-9fb2-e8af5591231a"
+        },
+        "7024d254-33a7-48c8-8280-f9dd3e4c4853": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "d1262dfc-ebfa-46fb-8ac6-1bacb67c532d"
+        },
+        "9962b5ca-3055-4ab3-8eab-2ed9680d3eb4": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "8963388a-8706-4a10-8994-7bed1b50e48a"
+        },
+        "9c65c201-de4b-4cfc-b4c5-84b109d94eaa": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "cd080796-d0ce-4e99-ac2c-9392ef4cf489"
+        },
+        "9cf3e228-e0a0-4893-bc88-2f6af8ed7cbe": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "81348a5f-37bb-43f3-9b18-259a6efcb5e4"
+        },
+        "9dc20d3e-d0b4-44f2-8fb9-9098887aa19c": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "01c5d744-dc1e-4376-bad5-c95304435fcc"
+        },
+        "a36d6e6a-81c6-4bf6-8919-28fbb44d1fa4": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "c88c79ee-e736-4347-8ffb-215a8323acd3"
+        },
+        "a3822987-1253-45e6-811f-2bf3d01dfa19": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "e1a6ab3a-e344-4e5d-90ba-efa3fe32a892"
+        },
+        "adc60010-d02e-47b0-b9b9-cfc7b5255034": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "c70713a7-9997-4021-9947-4690efdea2c8"
+        },
+        "ae4d2c09-933c-4d1e-8758-49b67976b8ab": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "136cdced-970a-4b55-8e9c-461c9b8eedce"
+        },
+        "b64821b4-7e0f-4dba-b0a8-b7cb528a0064": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "608cc3c6-076b-4eab-a2a5-bdf687a96d4c"
+        },
+        "bc815579-e338-4573-bd30-ff272bb4fc64": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "8963388a-8706-4a10-8994-7bed1b50e48a"
+        },
+        "d16abd7f-7646-4cfd-9c67-dcccedef0413": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "11f1d446-daf8-4c2d-b186-b6d3027c379f"
+        },
+        "df621c78-4d7e-4b40-b7c5-688714becc60": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "fe2d95ec-7a50-4b8b-bcf0-9306cbd4a6fd"
+        },
+        "f3054610-da51-44f7-956c-c4f90a5706a0": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "f80205f2-4a6f-4623-b8e6-1f1b514d7b2c"
+        },
+        "f6402a5a-e1a6-44cb-8495-f1d1615ec696": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "bf10d61e-f743-4073-ad78-996b7d21521f"
+        },
+        "f9c929dc-6582-4d72-8ec1-63df0de2cd0a": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "62c70d42-4c9b-45de-ab39-ac3ebdffcc7b"
+        },
+        "fec49fe2-58b3-4a33-bc9c-6b017b4de28a": {
+            "gate": "e8189c37-2d98-4eac-800c-4964a67658cd",
+            "pin": "8b311164-6423-49f3-8068-65e9365dc638"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "sd-card",
+        "usb"
+    ],
+    "type": "part",
+    "uuid": "878cde7e-b16b-4565-a72f-726dd3d06f1b",
+    "value": [
+        false,
+        ""
+    ]
+}

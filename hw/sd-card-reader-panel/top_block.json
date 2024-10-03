@@ -1,0 +1,40 @@
+{
+    "block_instance_mappings": {},
+    "block_instances": {},
+    "bom_export_settings": {
+        "concrete_parts": {},
+        "csv_settings": {
+            "columns": [
+                "QTY",
+                "MPN",
+                "value",
+                "manufacturer",
+                "refdes"
+            ],
+            "order": "asc",
+            "sort_column": "refdes"
+        },
+        "orderable_MPNs": {},
+        "output_filename": ""
+    },
+    "buses": {},
+    "components": {},
+    "group_names": {},
+    "name": "Top",
+    "net_class_default": "ae2c8533-b84d-4c6f-8dc1-5b17d721058d",
+    "net_classes": {
+        "ae2c8533-b84d-4c6f-8dc1-5b17d721058d": {
+            "name": "default"
+        }
+    },
+    "nets": {},
+    "project_meta": {
+        "author": "Lukas K.",
+        "date": "2023-04-24",
+        "project_name": "sd-card-reader-panel",
+        "project_title": "sd card reader panel",
+        "rev": "1"
+    },
+    "tag_names": {},
+    "uuid": "f1c719da-4ca9-42c7-96d8-c5f35a338068"
+}

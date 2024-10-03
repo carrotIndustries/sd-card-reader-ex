@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "c9aa1bde-4087-4dd8-88e8-072b55f119bb": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "461ce475-71df-4f2a-9174-6771b3ae59d7"
+        }
+    },
+    "manufacturer": "",
+    "name": "microSD Socket",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "micro-sd"
+    ],
+    "type": "entity",
+    "uuid": "1cdced4f-25b3-492b-a386-aa0265b01981"
+}
